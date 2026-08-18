@@ -1,0 +1,12 @@
+# Dataset files - too large for GitHub, linked in README instead
+data/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
